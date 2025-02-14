@@ -40,7 +40,7 @@ This project is a user authentication system built with **Express.js**, **MongoD
    MONGO_URI=your_mongodb_connection_string
    JWT_SECRET=your_jwt_secret_key
    PORT=3000
-   REDIS_URL=redis://127.0.0.1:6379
+   redis_Url=redis://127.0.0.1:6379
    ```
 
 4. Start Redis server (if not running):
